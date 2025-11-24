@@ -81,21 +81,21 @@ h3 {
   font-family: 'Raleway', sans-serif;
 }
 
-.shs-photo, .graduation-photo {
+.collegejourney-photo, .freshman-photo, .graduation-photo, .basic-photo, .shs-photo {
   margin-top: 10px;
   display: block;
   display: flex;
   justify-content: center;
-  gap: 40px;
+  gap: 30px;
 }
 
-.group-photo, .grad-photo {
-  width: 250px;
-  height: 200px;
+.college-photo, .fresh-photo, .grad-photo, .knowledge-photo, .group-photo{
+  width: 170px;
+  height: auto;
   border-radius: 10px;
 }
 
-.group-photo:hover, .grad-photo:hover {
+.college-photo:hover, .fresh-photo:hover, .grad-photo:hover, .knowledge-photo:hover, .group-photo:hover {
   transform: scale(1.1);
   transition: 1s;
   cursor: copy; 
