@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(to bottom right,#8ccbe4, #a1b9c5, #8ccbe4, #a1b9c5, #99ddf4);
+  background-image: radial-gradient(#98cfe1, #9dd4e7, #aeddf7, #a2dff5, #8ccbe4, #8ccbe4); 
   font-family: 'Raleway', sans-serif;
 }
 
@@ -146,7 +146,7 @@ h2 {
 }
 
 .hr-lower {
-  border: 1px solid rgb(158, 197, 245)
+  border: 1px solid #92c3ff;
 }
 
 .footerIcon {
@@ -158,7 +158,7 @@ h2 {
 
 /* Dark Mode */
 .dark {
-  background-image: linear-gradient(#1f1e1e);
+  background-image: radial-gradient(#1f1e1e, #2e2e2e, #1f1e1e, #1f1e1e); 
   font-family: 'Raleway', sans-serif;
   color: #f0f0f0;
 }
