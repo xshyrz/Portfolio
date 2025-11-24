@@ -210,6 +210,8 @@ body {
 
 .certdescrptn {
   text-align: justify;
+  margin-right: 9px;
+  margin-left: 9px;
   font-size: 13px;
   font-family: 'Raleway', sans-serif;
 }
@@ -334,7 +336,7 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 
-.dark .proj_b {
+.dark .proj_b, .dark .bootcamp, .dark .elearning {
   flex: 1;
   min-width: 120px;
   max-width: 400px;
@@ -347,6 +349,14 @@ body {
   overflow: hidden;
   padding: 10px;
   font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.dark .certdescrptn {
+  text-align: justify;
+  margin-right: 9px;
+  margin-left: 9px;
+  font-size: 13px;
   font-family: 'Raleway', sans-serif;
 }
 
