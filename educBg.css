@@ -194,6 +194,11 @@ body {
   font-size: 15px;
 }
 
+.cLogo, .htmlLogo, .cssLogo, .javaLogo, .pythonLogo {
+  width: 15px;
+  height: auto;
+}
+
 .copyright {
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 13px;
