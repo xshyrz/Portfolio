@@ -3,10 +3,6 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 
-.projects {
-  margin-left: 50px;
-}
-
 .profile-row {
   display: flex;
   align-items: center;
@@ -130,11 +126,11 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 
-.proj {
+.proj, .seminar {
   margin-bottom: 40px;
 }
 
-.proj_a {
+.proj_a, .workshop {
   display: flex;
   gap: 70px;
   flex-wrap: wrap;
@@ -142,7 +138,7 @@ body {
   margin-left: 110px;
 }
 
-.proj_b {
+.proj_b, .bootcamp, .elearning {
   flex: 1;
   min-width: 120px;
   max-width: 400px;
@@ -180,7 +176,8 @@ body {
   margin-left: 93px;
 }
 
-.projects {
+.projects, .training {
+  margin-left: 50px;
   font-family: 'Concert One', sans-serif;
 }
 
@@ -197,6 +194,24 @@ body {
 .cLogo, .htmlLogo, .cssLogo, .javaLogo, .pythonLogo {
   width: 15px;
   height: auto;
+}
+
+.cert1 {
+  padding: 10px 10px 0 10px;
+  width: 90%;
+  height: auto;
+}
+
+.cert2 {
+  padding: 10px 0px 10 10px;
+  width: 80%;
+  height: auto;
+}
+
+.certdescrptn {
+  text-align: justify;
+  font-size: 13px;
+  font-family: 'Raleway', sans-serif;
 }
 
 .copyright {
