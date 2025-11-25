@@ -60,6 +60,13 @@ body {
   color: #272727;
 }
 
+h3 {
+  margin-left: 20px;
+  font-size: 20px;
+  font-family: 'Concert One', sans-serif;
+  font-weight: lighter;
+}
+
 .objective {
   text-align: justify;
   font-size: 16px;
@@ -69,7 +76,7 @@ body {
 
 .obj {
   margin-bottom: 40px;
-  margin-right: 40px;
+  margin-right: 30px;
 }
 
 .obj_a {
