@@ -542,6 +542,7 @@ h4 {
 .dark .fun-facts {
   background-color: #3b3a3a6e;
   border-left: 6px solid #191818;
+  border-right: 6px solid #191818;
   color: #f0f0f0;
   box-shadow: 0 2px 8px rgba(0, 0 ,0 , 0.1);
 }
