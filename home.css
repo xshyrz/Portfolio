@@ -238,20 +238,14 @@ h4 {
   transition: opacity 0.4s ease;
 }
 
-/* Hover effect 
-.skill-A:hover, .skill-B:hover,
-.skill-C:hover, .skill-D:hover {           
-  transform: scale(1.05);  
-} */
-
 .skill-A:hover .default-text, .skill-B:hover .default-text,
 .skill-C:hover .default-text, .skill-D:hover .default-text {
-  opacity: 0;               /* fade out */
+  opacity: 0;         
 }
 
 .skill-A:hover .hover-text, .skill-B:hover .hover-text,
 .skill-C:hover .hover-text, .skill-D:hover .hover-text {
-  opacity: 1;               /* fade in */
+  opacity: 1;     
 }
 
 .objective {
@@ -335,6 +329,28 @@ h4 {
 .hobby-image p {
   margin: 0;
   font-size: 15px;
+}
+
+.fun-facts {
+  background-color: #FAE4FD;
+  border-left: 6px solid #cd99f3;
+  padding: 5px 0px;
+  margin: 40px auto;
+  max-width: 800px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0 ,0 , 0.1);
+}
+
+.facts {
+  list-style: none;
+  padding-left: 0;
+}
+
+.facts li {
+  padding: 5px 10px;
+  position: relative;
+  margin-left: 25px;
+  line-height: 1.0;
 }
 
 .copyright {
@@ -519,6 +535,13 @@ h4 {
   margin: 0;
   font-size: 15px;
   color: #f0f0f0;
+}
+
+.dark .fun-facts {
+  background-color: #3b3a3a6e;
+  border-left: 6px solid #191818;
+  color: #f0f0f0;
+  box-shadow: 0 2px 8px rgba(0, 0 ,0 , 0.1);
 }
 
 .dark .switchmode {
