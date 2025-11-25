@@ -71,9 +71,9 @@ h3 {
   flex: 1;
   margin-right: 80px;
   margin-left: 80px;
-  background-color: rgba(255, 255, 255, 0.2);
-  box-shadow: 0 0 13px rgb(65, 141, 254);
-  border: 2px solid rgba(36, 36, 36, 0.3);
+  background-color: #D0E3FF;
+  box-shadow: 0 0 13px #5398ff;
+  border: 2px solid #7f95b7;
   border-radius: 10px;
   position: relative;
   color: #000000;

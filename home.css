@@ -207,9 +207,9 @@ h4 {
   display: inline-block;
   color: #000000;
   padding: 15px 15px 15px 15px;
-  background-color: rgba(255, 255, 255, 0.2);
-  box-shadow: 0 0 13px rgb(65, 141, 254);
-  border: 2px solid rgba(36, 36, 36, 0.3);
+  background-color: #D0E3FF;
+  box-shadow: 0 0 13px #5398ff;
+  border: 2px solid #7f95b7;
   border-radius: 8px;
   text-align: center;
   overflow: hidden;
@@ -270,9 +270,9 @@ h4 {
   flex: 1;
   width: 100%;
   height: auto;
-  background-color: rgba(255, 255, 255, 0.2);
-  box-shadow: 0 0 13px rgb(65, 141, 254);
-  border: 2px solid rgba(36, 36, 36, 0.3);
+  background-color: #D0E3FF;
+  box-shadow: 0 0 13px #5398ff;
+  border: 2px solid #7f95b7;
   border-radius: 8px;
   overflow: hidden;
   color: #000000;
@@ -301,9 +301,9 @@ h4 {
   min-width: 190px;
   max-width: 250px;
   height: auto;
-  background-color: rgba(255, 255, 255, 0.2);
-  box-shadow: 0 0 13px rgb(65, 141, 254);
-  border: 2px solid rgba(59, 59, 59, 0.3);
+  background-color: #D0E3FF;
+  box-shadow: 0 0 13px #5398ff;
+  border: 2px solid #7f95b7;
   border-radius: 8px;
   overflow: hidden;
   text-align: center;
@@ -332,8 +332,8 @@ h4 {
 }
 
 .fun-facts {
-  background-color: #FAE4FD;
-  border-left: 6px solid #cd99f3;
+  background-color: #D0E3FF;
+  border-left: 6px solid #7f95b7;
   padding: 5px 0px;
   margin: 40px auto;
   max-width: 800px;

@@ -82,9 +82,9 @@ h2 {
   min-width: 190px;
   max-width: 250px;
   height: auto;
-  background-color: rgba(255, 255, 255, 0.2);
-  box-shadow: 0 0 13px rgb(65, 141, 254);
-  border: 2px solid rgba(59, 59, 59, 0.3);
+  background-color: #D0E3FF;
+  box-shadow: 0 0 13px #5398ff;
+  border: 2px solid #7f95b7;
   border-radius: 8px;
   overflow: hidden;
   text-align: center;
