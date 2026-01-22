@@ -508,7 +508,7 @@ h4 {
   width: 100%;
   height: auto;
   background-color: #3b3a3a6e;
-  box-shadow: 0 0 13px rgb(131, 169, 226);;
+  box-shadow: 0 0 13px rgb(131, 169, 226);
   border: 2px solid #0000004f;
   color: #f0f0f0;
   border-radius: 8px;
@@ -544,7 +544,7 @@ h4 {
   border-left: 6px solid #191818;
   border-right: 6px solid #191818;
   color: #f0f0f0;
-  box-shadow: 0 2px 8px rgba(0, 0 ,0 , 0.1);
+  box-shadow: 0 0 13px rgb(85, 111, 151);
 }
 
 .dark .switchmode {
