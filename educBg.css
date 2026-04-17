@@ -138,7 +138,7 @@ body {
   margin-left: 110px;
 }
 
-.proj_b, .bootcamp, .elearning, .insideOut, .webinar {
+.proj_b, .bootcamp, .elearning, .insideOut, .saikom, .webinar {
   flex: 1;
   min-width: 120px;
   max-width: 400px;
@@ -202,7 +202,7 @@ body {
   height: auto;
 }
 
-.cert2, .cert3, .cert5 {
+.cert2, .cert3, .cert4, .cert5 {
   padding: 10px 0px 10 10px;
   width: 80%;
   height: auto;
@@ -337,7 +337,7 @@ body {
 }
 
 .dark .proj_b, .dark .bootcamp, .dark .elearning, .dark .insideOut,
-.dark .webinar {
+.dark .saikom, .dark .webinar {
   flex: 1;
   min-width: 120px;
   max-width: 400px;
