@@ -138,7 +138,7 @@ body {
   margin-left: 110px;
 }
 
-.proj_b, .bootcamp, .elearning {
+.proj_b, .bootcamp, .elearning, .insideOut {
   flex: 1;
   min-width: 120px;
   max-width: 400px;
@@ -336,7 +336,7 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 
-.dark .proj_b, .dark .bootcamp, .dark .elearning {
+.dark .proj_b, .dark .bootcamp, .dark .elearning, .dark .insideOut {
   flex: 1;
   min-width: 120px;
   max-width: 400px;
